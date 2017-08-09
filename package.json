@@ -1,0 +1,40 @@
+{
+  "name": "react-native-animated-check-mark",
+  "version": "0.0.3",
+  "description": "",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "author": {
+    "name": "AppliKeySolutions",
+    "email": "applikeytester@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf lib",
+    "start": "node_modules/react-native/packager/packager.sh",
+    "build": "babel src --out-dir lib",
+    "prepublish": "npm run clean && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppliKeySolutions/react-native-animated-check-mark.git"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "react": "15.2.1",
+    "react-native": "^0.31.0",
+    "rimraf": "^2.5.2"
+  },
+  "keywords": [
+    "react native",
+    "ios",
+    "android",
+    "button",
+    "animation",
+    "cross",
+    "arrow"
+  ]
+}
