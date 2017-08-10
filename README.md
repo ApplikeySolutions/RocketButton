@@ -12,7 +12,8 @@ Made by [Applikey Solutions](https://applikeysolutions.com)
 5. [Properties](#properties)
 6. [Demo](#demo)
 7. [Release Notes](#release-notes)
-8. [License](#license)
+8. [Contact Us](#contact-us)
+9. [License](#license)
 
 # Purpose
 A small react component for animated cross-mark transformation.
@@ -107,6 +108,10 @@ AppRegistry.registerComponent('myproject', () => myproject);
 Version 0.0.2
 
 - Release version.
+
+# Contact Us
+
+You can always contact us via github@applikey.biz We are open for any inquiries regarding our libraries and controls, new open-source projects and other ways of contributing to the community. If you have used our component in your project we would be extremely happy if you write us your feedback and let us know about it!
 
 # License
 
